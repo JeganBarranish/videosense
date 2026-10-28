@@ -1,0 +1,12 @@
+streamlit>=1.35
+faster-whisper>=1.0
+scenedetect[opencv]>=0.6.4
+opencv-python-headless>=4.9
+transformers>=4.40
+torch
+pillow
+sentence-transformers>=2.7
+faiss-cpu>=1.8
+numpy
+requests
+anthropic        # only needed if LLM_BACKEND=anthropic

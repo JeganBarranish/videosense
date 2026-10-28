@@ -1,0 +1,19 @@
+[
+ {
+  "id": 0,
+  "start": 0.0,
+  "end": 10.0,
+  "speech": "",
+  "visuals": [
+   "a white rabbit in a field of flowers",
+   "the secret of the secret island",
+   "the secret of easter island"
+  ],
+  "frames": [
+   "data/ee04a75506dc/frames/c0_0.jpg",
+   "data/ee04a75506dc/frames/c0_1.jpg",
+   "data/ee04a75506dc/frames/c0_2.jpg"
+  ],
+  "text": "Speech: (none)\nVisuals: a white rabbit in a field of flowers; the secret of the secret island; the secret of easter island"
+ }
+]
